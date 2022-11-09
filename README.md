@@ -13,7 +13,7 @@ I am a student who is passionate about learning software development and creatin
 --- 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepanker5&show_icons=true&theme=gruvbox)
+![Deepanker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepanker5&show_icons=true&theme=gruvbox)
 
 ---
 <details>
