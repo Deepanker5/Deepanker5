@@ -8,7 +8,10 @@ I am a student who is passionate about learning software development and creatin
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align = "left" alt = "Scala" width = "60px" style ="padding-right:10px;" src = "https://user-images.githubusercontent.com/95539000/204843121-0c98ddff-ee6c-49a7-84dd-57ba3373cc97.png"/>
 <br />
+
+
 
 --- 
 ### 📊 Stats
