@@ -1,6 +1,6 @@
-**`Computer Science and Digital Systems and Design student`**
+**`Mathematics and operations research student`**
 
-I am a student who is passionate about learning software development and creating projects that help solve real-life problems
+Learning about the intersection between coding and mathematics
 
 ---
 
