@@ -1,6 +1,6 @@
 **`Mathematics and operations research student`**
 
-Learning about the intersection between coding and mathematics
+Learning about the intersection between Matheamtics, Machine Learning and finance
 
 ---
 
@@ -21,5 +21,5 @@ Learning about the intersection between coding and mathematics
 ---
 <details>
  <summary><h3>👨‍💻 My current focus </h3></summary>
- Currently I am pursuing a master's degree in mathematics and operations research. My primary goal is to learn how I can apply my mathematics skills and coding skills in order to   solve complex business and product related problems. 
+ Currently I am pursuing a master's degree in mathematics and operations research with a minor in ML and Finance. I am just trying to learn as much as possible about ML and finance via projects, note that all my projects are just experimental pet projects and are not meants to be taken as "production ready" code. I learn by doing, so you might find a lot of half-baked projects that I either lost interest in, or haven't had time to complete either due to work or uni studies. 
 
