@@ -1,6 +1,6 @@
 **`Mathematics and operations research student`**
 
-Learning about the intersection between Matheamtics, Machine Learning and finance
+Learning about the intersection between Mathematics, Machine Learning and Finance
 
 ---
 
